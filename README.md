@@ -31,7 +31,7 @@ once the repository is cloned, cd into the Compulsory Task 1 folder:
 
 "cd L3T12CS2"
 
-"cd Compulsory Task 2"
+"cd Compulsory_Task_2"
 
 and run the following command
 
