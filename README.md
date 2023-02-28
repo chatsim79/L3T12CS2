@@ -1,4 +1,4 @@
-# L3T12CS2
+# L3T12CT2
 
 ## Description:
 
@@ -25,7 +25,7 @@ open the folder in VSC, or open terminal within the folder). I reccommend
 command line opened in the appropriate folder as it demonstrates the app 
 running indepedent of VSC:
 
-"git clone https://github.com/chatsim79/L3T12CS2.git"
+"git clone https://github.com/chatsim79/L3T12CT2.git"
 
 once the repository is cloned, cd into the Compulsory Task 1 folder:
 
